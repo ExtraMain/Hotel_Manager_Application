@@ -1,2 +1,2 @@
-# -ng-du-ng-qua-n-tri-kha-ch-sa-n
+# Ứng dụng quản trị khách sạn
 Chỉ có trang quản trị
